@@ -3,8 +3,9 @@
 ![Screenshot 2023-09-18 060832](https://github.com/pradip2994/S3_Website_Project/assets/124191442/77fcb13f-3733-432b-92ee-3b0ab66cbe0c)
 
 # Below are the steps to host a website. 
-## WEBSITE PREVIEW 
 
+## WEBSITE PREVIEW 
+![Screenshot 2023-09-18 065743](https://github.com/pradip2994/S3_Website_Project/assets/124191442/ba5a63af-cef9-4b4a-858e-2be9787a3cd4)
 
 ## Route53
 ### Purchase a domain.
@@ -172,4 +173,6 @@
 ![Screenshot 2023-09-18 064746](https://github.com/pradip2994/S3_Website_Project/assets/124191442/304678fd-fdcc-4527-a476-54e1c2c7708c)
 
 So, finally everything is done now we can access website using domain and sub domain.
+
+![Screenshot 2023-09-18 065743](https://github.com/pradip2994/S3_Website_Project/assets/124191442/c3afcdb8-7826-46b2-905c-26e43e2fbd86)
 
